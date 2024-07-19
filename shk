@@ -1,0 +1,2 @@
+mkdir templates static
+touch app.py static/style.css templates/base.html templates/index.html template/projects. html templates/skills.html templates/contact.html
