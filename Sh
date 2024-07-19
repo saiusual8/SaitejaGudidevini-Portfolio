@@ -1,0 +1,3 @@
+mkdir data_scientist_portfolio
+cd data_scientist_portfolio
+git init
